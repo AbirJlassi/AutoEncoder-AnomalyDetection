@@ -28,7 +28,7 @@ Ce mini-projet vise à détecter des cas d’adultération du miel à l’aide d
 4. **Évaluation et visualisation** :
    - Répartition des anomalies détectées
 
-## 🧠 Technologies utilisées
+## Technologies utilisées
 
 - Python 3
 - Pandas, NumPy
